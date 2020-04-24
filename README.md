@@ -7,9 +7,9 @@
 
 ipdrone is a simply python script, which can be used to Ip lookup and to get information of perticualr target Ip. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/ipdrone.svg)](https://github.com/noob-hackers/ipdrone)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/ipdrone.svg)](https://github.com/noob-hackers/ipdrone)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/ipdrone.svg)](https://github.com/noob-hackers/ipdrone)
+[![Build Status](https://img.shields.io/github/stars/noob-hackers/ipdrone.svg)](https://github.com/Abhi6722/ipdrone)
+[![Build Status](https://img.shields.io/github/forks/noob-hackers/ipdrone.svg)](https://github.com/Abhi6722/ipdrone)
+[![License: MIT](https://img.shields.io/github/license/noob-hackers/ipdrone.svg)](https://github.com/Abhi6722/ipdrone)
 [![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#ipdrone)
 
 ![unnamed (2)](https://user-images.githubusercontent.com/49580304/56078909-e66b8200-5e0a-11e9-8e30-ab6351083f02.jpg)
@@ -60,10 +60,10 @@ ex:- python ipdrone.py -v 127.0,0.1
 Hurray... you got his location with some more information
 
 ### Subscribe our channel on youtube
-https://www.youtube.com/noobhackers
+https://www.youtube.com/channel/UCV9qe5io3OCZ8vHMu4gnQZQ
 
 ### Chekout our webite 
-https://www.noob-hackers.com
+https://hackershub.abhi6722.in
      
 ### Warning
 
